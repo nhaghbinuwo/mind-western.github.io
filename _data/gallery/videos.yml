@@ -1,0 +1,66 @@
+# Videos for the gallery
+# Each entry should have: title, description, youtube_id, category, and optional date
+# youtube_id is the ID from the YouTube URL (e.g., https://www.youtube.com/watch?v=VIDEO_ID)
+
+youtube_channel: "https://www.youtube.com/@mind-western"
+
+videos:
+  # Lightsheet Microscopy Research Videos
+  - title: "Neu-N Magenta, CD31 Yellow, YoPro Blue"
+    description: "Lightsheet microscopy visualization with Neu-N (magenta), CD31 (yellow), and YoPro (blue) markers"
+    youtube_id: "1l2u5SjXsNQ"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "App NL-G-F — Iba1, CD31, Abeta"
+    description: "Lightsheet imaging of App NL-G-F mouse model showing Iba1, CD31, and Abeta staining"
+    youtube_id: "23PCaPGYe9I"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "Olig2"
+    description: "Lightsheet microscopy visualization with Olig2 marker"
+    youtube_id: "Xs61Wrdl4HY"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "PFF Striatum Injection — Brain and Spinal Cord"
+    description: "PFF striatum injection visualization showing brain and spinal cord with autofluorescence, alpha-synuclein, and PI staining"
+    youtube_id: "p3MiNb-Id1A"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "PFF Striatum Injection — Brain and Spinal Cord (2)"
+    description: "Second PFF striatum injection visualization of brain and spinal cord with autofluorescence, alpha-synuclein, and PI staining"
+    youtube_id: "lPZMHsWEBHk"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "ApoE4 App NL-F — Abeta, CD31"
+    description: "Lightsheet imaging of ApoE4 App NL-F mouse model with Abeta and CD31 staining"
+    youtube_id: "lcGjUEOWJJw"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "ApoE4 App NL-F — YoPro, Abeta, CD31"
+    description: "Lightsheet imaging of ApoE4 App NL-F mouse model with YoPro, Abeta, and CD31 staining"
+    youtube_id: "udVPxmCazFs"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "Abeta"
+    description: "Lightsheet microscopy visualization of Abeta (amyloid beta) staining"
+    youtube_id: "VUz3V75Mq2Y"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "ApoE4 NL-F — Abeta, CD31, YoPro"
+    description: "Lightsheet imaging of ApoE4 NL-F mouse model with Abeta, CD31, and YoPro staining"
+    youtube_id: "QmWXWZrtjTc"
+    category: "research"
+    date: "2025-01-01"
+
+# Note: To add a new video with a real YouTube ID:
+# 1. Upload the video to YouTube
+# 2. Get the video ID from the URL (e.g., https://www.youtube.com/watch?v=VIDEO_ID)
+# 3. Add a new entry with the actual VIDEO_ID
