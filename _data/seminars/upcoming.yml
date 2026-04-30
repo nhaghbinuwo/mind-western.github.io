@@ -1,12 +1,20 @@
 # Upcoming seminars
 upcoming:
-  - date: "2025-09-16"
+  # Session 5 – May 20, 2026
+  - date: "2026-05-20"
     time: "1:00 PM - 2:00 PM"
-    title: "Inaugural MIND Lunch Series"
-    presenter: "TBD"
+    title: "Advancing Imaging in Marmosets: Light Sheet Microscopy Approaches"
+    presenter: "Jesleen Saini"
     affiliation: ""
-    topic: "Light Sheet Microscopy & MRI Integration"
-    abstract: "The MIND platform is launching a new monthly lunch meeting series for users of Light Sheet Microscopy (LSM) 🔬 and MRI 🧠 — a chance to connect, learn, and discuss the latest in imaging, over pizza 🍕! Join us for our first session on Tuesday, September 16, 2025."
-    tags: ["networking", "introduction", "LSM", "MRI"]
+    tags: ["LSM", "Light Sheet Microscopy"]
+    registration_required: true
+    zoom_link: "https://westernuniversity.zoom.us/j/96145254780"
+
+  - date: "2026-05-20"
+    time: "1:00 PM - 2:00 PM"
+    title: "Light Sheet Artifact Reduction and Removal"
+    presenter: "Wenyao Xia"
+    affiliation: ""
+    tags: ["LSM", "Light Sheet Microscopy"]
     registration_required: true
     zoom_link: "https://westernuniversity.zoom.us/j/96145254780"
