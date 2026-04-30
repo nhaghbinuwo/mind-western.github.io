@@ -10,6 +10,7 @@ description: "Explore images and videos showcasing the MIND Platform's cutting-e
 {% assign info = site.data.gallery.info %}
 {% assign images = site.data.gallery.images.images %}
 {% assign videos = site.data.gallery.videos.videos %}
+{% assign youtube_channel = site.data.gallery.videos.youtube_channel %}
 
 <!-- Header Section -->
 <div class="row">
@@ -37,6 +38,7 @@ description: "Explore images and videos showcasing the MIND Platform's cutting-e
 <div class="row mt-5">
   <div class="col-12">
     <h2>🎥 Videos</h2>
+    <p>Watch our latest lightsheet microscopy and neuroimaging videos, or visit our <a href="{{ youtube_channel }}" target="_blank" rel="noopener noreferrer">YouTube channel</a> for the full collection.</p>
     <hr />
     
     <div class="gallery-grid" id="videos-grid">
@@ -51,7 +53,6 @@ description: "Explore images and videos showcasing the MIND Platform's cutting-e
                   <path fill-rule="evenodd" d="M0 5a2 2 0 0 1 2-2h7.5a2 2 0 0 1 1.983 1.738l3.11-1.382A1 1 0 0 1 16 4.269v7.462a1 1 0 0 1-1.406.913l-3.111-1.382A2 2 0 0 1 9.5 13H2a2 2 0 0 1-2-2zm11.5 5.175 3.5 1.556V4.269l-3.5 1.556zM2 4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h7.5a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1z"/>
                 </svg>
                 <p class="mt-3">Video Coming Soon</p>
-                <small class="text-muted">{{ video.youtube_id }}</small>
               </div>
             </div>
           {% else %}
@@ -132,6 +133,7 @@ description: "Explore images and videos showcasing the MIND Platform's cutting-e
       </p>
       <p>
         <strong>Content Updates:</strong> New videos and images are added every couple of weeks as our research progresses and events occur.
+        Visit our <a href="{{ youtube_channel }}" target="_blank" rel="noopener noreferrer">YouTube channel</a> for the latest videos.
       </p>
       <p>
         For more information about our work or to collaborate with us, please <a href="/contact/">get in touch</a>.

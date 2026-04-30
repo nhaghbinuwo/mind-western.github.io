@@ -1,120 +1,66 @@
 # Videos for the gallery
-# Each entry should have: title, description, youtube_id (placeholder for now), category, and optional date
-# When videos are posted to YouTube, update the youtube_id field with the actual video ID
+# Each entry should have: title, description, youtube_id, category, and optional date
+# youtube_id is the ID from the YouTube URL (e.g., https://www.youtube.com/watch?v=VIDEO_ID)
+
+youtube_channel: "https://www.youtube.com/@mind-western"
 
 videos:
-  # Equipment & Facilities Videos
-  - title: "15.2T MRI Scanner Overview"
-    description: "Tour of Canada's most powerful MRI scanner and its capabilities"
-    youtube_id: "PLACEHOLDER_VIDEO_1"
-    category: "equipment"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  - title: "Lightsheet Microscopy Demo"
-    description: "Demonstration of the Miltenyi Blaze Ultramicroscope in action"
-    youtube_id: "PLACEHOLDER_VIDEO_2"
-    category: "equipment"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  - title: "Tissue Clearing Process"
-    description: "Step-by-step guide to our tissue clearing workflow"
-    youtube_id: "PLACEHOLDER_VIDEO_3"
-    category: "training"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  # Research Highlights Videos
-  - title: "Brain Connectivity Visualization"
-    description: "Visualizing brain network connectivity from MRI data"
-    youtube_id: "PLACEHOLDER_VIDEO_4"
+  # Lightsheet Microscopy Research Videos
+  - title: "Neu-N Magenta, CD31 Yellow, YoPro Blue"
+    description: "Lightsheet microscopy visualization with Neu-N (magenta), CD31 (yellow), and YoPro (blue) markers"
+    youtube_id: "1l2u5SjXsNQ"
     category: "research"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  - title: "Patho-connectomics Approach"
-    description: "How we link functional connectivity with molecular pathology"
-    youtube_id: "PLACEHOLDER_VIDEO_5"
-    category: "research"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  - title: "Whole Brain Lightsheet Imaging"
-    description: "Time-lapse of whole brain imaging with lightsheet microscopy"
-    youtube_id: "PLACEHOLDER_VIDEO_6"
-    category: "research"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  # Training & Education Videos
-  - title: "MRI Data Acquisition Tutorial"
-    description: "Training video for MRI scanning protocols"
-    youtube_id: "PLACEHOLDER_VIDEO_7"
-    category: "training"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  - title: "Image Processing Pipeline"
-    description: "Overview of our automated processing pipelines"
-    youtube_id: "PLACEHOLDER_VIDEO_8"
-    category: "training"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  - title: "SPIMquant Software Tutorial"
-    description: "Getting started with SPIMquant for lightsheet data analysis"
-    youtube_id: "PLACEHOLDER_VIDEO_9"
-    category: "training"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  # Events & Seminars Videos
-  - title: "MIND Platform Launch Event"
-    description: "Highlights from the official launch of the MIND Platform"
-    youtube_id: "PLACEHOLDER_VIDEO_10"
-    category: "events"
-    date: "2025-06-23"
-    duration: "TBD"
-  
-  - title: "Seminar: Multi-scale Brain Imaging"
-    description: "Research seminar on multi-scale imaging approaches"
-    youtube_id: "PLACEHOLDER_VIDEO_11"
-    category: "events"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  - title: "Lab Tour and Workflow"
-    description: "Complete tour of the MIND Platform facilities and workflow"
-    youtube_id: "PLACEHOLDER_VIDEO_12"
-    category: "equipment"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  # Additional placeholder slots for upcoming videos
-  - title: "Research Project Showcase 1"
-    description: "Detailed showcase of ongoing research project"
-    youtube_id: "PLACEHOLDER_VIDEO_13"
-    category: "research"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  - title: "Research Project Showcase 2"
-    description: "Detailed showcase of ongoing research project"
-    youtube_id: "PLACEHOLDER_VIDEO_14"
-    category: "research"
-    date: "2025-06-01"
-    duration: "TBD"
-  
-  - title: "Research Project Showcase 3"
-    description: "Detailed showcase of ongoing research project"
-    youtube_id: "PLACEHOLDER_VIDEO_15"
-    category: "research"
-    date: "2025-06-01"
-    duration: "TBD"
+    date: "2025-01-01"
 
-# Note: To update a video with a real YouTube ID:
+  - title: "App NL-G-F — Iba1, CD31, Abeta"
+    description: "Lightsheet imaging of App NL-G-F mouse model showing Iba1, CD31, and Abeta staining"
+    youtube_id: "23PCaPGYe9I"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "Olig2"
+    description: "Lightsheet microscopy visualization with Olig2 marker"
+    youtube_id: "Xs61Wrdl4HY"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "PFF Striatum Injection — Brain and Spinal Cord"
+    description: "PFF striatum injection visualization showing brain and spinal cord with autofluorescence, alpha-synuclein, and PI staining"
+    youtube_id: "p3MiNb-Id1A"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "PFF Striatum Injection — Brain and Spinal Cord (2)"
+    description: "Second PFF striatum injection visualization of brain and spinal cord with autofluorescence, alpha-synuclein, and PI staining"
+    youtube_id: "lPZMHsWEBHk"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "ApoE4 App NL-F — Abeta, CD31"
+    description: "Lightsheet imaging of ApoE4 App NL-F mouse model with Abeta and CD31 staining"
+    youtube_id: "lcGjUEOWJJw"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "ApoE4 App NL-F — YoPro, Abeta, CD31"
+    description: "Lightsheet imaging of ApoE4 App NL-F mouse model with YoPro, Abeta, and CD31 staining"
+    youtube_id: "udVPxmCazFs"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "Abeta"
+    description: "Lightsheet microscopy visualization of Abeta (amyloid beta) staining"
+    youtube_id: "VUz3V75Mq2Y"
+    category: "research"
+    date: "2025-01-01"
+
+  - title: "ApoE4 NL-F — Abeta, CD31, YoPro"
+    description: "Lightsheet imaging of ApoE4 NL-F mouse model with Abeta, CD31, and YoPro staining"
+    youtube_id: "QmWXWZrtjTc"
+    category: "research"
+    date: "2025-01-01"
+
+# Note: To add a new video with a real YouTube ID:
 # 1. Upload the video to YouTube
 # 2. Get the video ID from the URL (e.g., https://www.youtube.com/watch?v=VIDEO_ID)
-# 3. Replace PLACEHOLDER_VIDEO_X with the actual VIDEO_ID
-# 4. Update the duration if known
+# 3. Add a new entry with the actual VIDEO_ID
