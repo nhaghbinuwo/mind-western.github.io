@@ -29,7 +29,6 @@ style: /assets/css/seminars.css
       <p><strong>Location:</strong></p>
       <ul>
         <li><strong>In Person:</strong> {{ info.location.in_person }}</li>
-        <li><strong>Virtual:</strong> <a href="{{ info.location.virtual }}" target="_blank">Zoom Meeting</a></li>
       </ul>
       
       <h4>📋 Typical Agenda</h4>
@@ -42,9 +41,6 @@ style: /assets/css/seminars.css
       <div class="mt-3">
         <a href="{{ info.signup_form }}" class="btn btn-primary" target="_blank">
           📝 Register Your Attendance
-        </a>
-        <a href="mailto:{{ info.contact_email }}" class="btn btn-outline-primary">
-          📧 Contact Us
         </a>
       </div>
     </div>
@@ -103,11 +99,6 @@ style: /assets/css/seminars.css
             {% endif %}
             
             <div class="seminar-links">
-              {% if seminar.zoom_link %}
-              <a href="{{ seminar.zoom_link }}" class="btn btn-sm btn-primary" target="_blank">
-                💻 Join Zoom
-              </a>
-              {% endif %}
               {% if seminar.registration_required %}
               <a href="{{ info.signup_form }}" class="btn btn-sm btn-outline-primary" target="_blank">
                 📝 Register

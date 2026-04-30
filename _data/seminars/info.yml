@@ -1,16 +1,14 @@
 # General seminar information
 series_title: "MIND Monthly Lunch Series"
-description: "A monthly lunch meeting series for users of Light Sheet Microscopy (LSM) 🔬 and MRI 🧠 — a chance to connect, learn, and discuss the latest in imaging, over pizza 🍕!"
-schedule: "Monthly on the third Tuesday, 1-2 PM"
+description: "A monthly lunch meeting series for users of Light Sheet Microscopy 🔬 and MRI 🧠 — a chance to connect, learn, and discuss the latest in imaging, over pizza 🍕!"
+schedule: "Bi-monthly on the third Tuesday, 1-2 PM"
 location:
   in_person: "Fisher room - 2nd floor, Robarts Research Institute (RRI)"
-  virtual: "https://westernuniversity.zoom.us/j/96145254780"
-signup_form: "https://forms.office.com/r/qTQLmqf1Kd"
-contact_email: "mind-platform@uwo.ca"
+signup_form: "https://forms.gle/zTXWUaFQeeJ44HNc6"
 agenda:
   - duration: "20 min"
-    description: "LSM presentation 🔬"
+    description: "Lightsheet presentation 🔬"
   - duration: "20 min"
-    description: "MRI or LSM–MRI alignment 🧠"
+    description: "MRI & Lightsheet+MRI 🧠"
   - duration: "20 min"
     description: "Open discussion 💬"
