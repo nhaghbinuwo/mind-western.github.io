@@ -5,16 +5,14 @@ upcoming:
     time: "1:00 PM - 2:00 PM"
     title: "Advancing Imaging in Marmosets: Light Sheet Microscopy Approaches"
     presenter: "Jesleen Saini"
-    affiliation: ""
+    affiliation: "Western University"
     tags: ["LSM", "Light Sheet Microscopy"]
     registration_required: true
-    zoom_link: "https://westernuniversity.zoom.us/j/96145254780"
 
   - date: "2026-05-20"
     time: "1:00 PM - 2:00 PM"
     title: "Light Sheet Artifact Reduction and Removal"
     presenter: "Wenyao Xia"
-    affiliation: ""
+    affiliation: "Western University"
     tags: ["LSM", "Light Sheet Microscopy"]
     registration_required: true
-    zoom_link: "https://westernuniversity.zoom.us/j/96145254780"

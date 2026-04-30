@@ -4,7 +4,6 @@ description: "A monthly lunch meeting series for users of Light Sheet Microscopy
 schedule: "Bi-monthly on the third Tuesday, 1-2 PM"
 location:
   in_person: "Fisher room - 2nd floor, Robarts Research Institute (RRI)"
-  virtual: "Register for zoom link"
 signup_form: "https://forms.gle/zTXWUaFQeeJ44HNc6"
 agenda:
   - duration: "20 min"

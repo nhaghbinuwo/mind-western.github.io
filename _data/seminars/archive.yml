@@ -18,14 +18,14 @@ archive:
     time: "1:00 PM - 2:00 PM"
     title: "Why use whole brain light sheet fluorescent microscopy?"
     presenter: "Kate Onuska"
-    affiliation: ""
+    affiliation: "Western University"
     tags: ["LSM", "Light Sheet Microscopy"]
 
   - date: "2025-09-16"
     time: "1:00 PM - 2:00 PM"
     title: "The Synuclein Project"
     presenter: "Amr Fawzy Kamel Eed"
-    affiliation: ""
+    affiliation: "Western University"
     tags: ["LSM", "Neurodegenerative Disease"]
 
   # Session 2 – October 14, 2025
@@ -41,14 +41,14 @@ archive:
     time: "1:00 PM - 2:00 PM"
     title: "Capturing Alpha Synuclein Using Light Sheet Microscopy"
     presenter: "Vladislav Novikov"
-    affiliation: ""
+    affiliation: "Western University"
     tags: ["LSM", "Light Sheet Microscopy", "Neurodegenerative Disease"]
 
   - date: "2025-11-18"
     time: "1:00 PM - 2:00 PM"
     title: "Awake Mouse Functional Magnetic Resonance Imaging"
     presenter: "Sam Laxer"
-    affiliation: ""
+    affiliation: "Western University"
     tags: ["MRI", "fMRI"]
 
   # Session 4 – March 18, 2026
@@ -56,12 +56,12 @@ archive:
     time: "1:00 PM - 2:00 PM"
     title: "Implementing a Translational Pipeline to Evaluate Early Therapeutic Interventions in Alzheimer's Disease"
     presenter: "Arash Salahinejad"
-    affiliation: ""
+    affiliation: "Western University"
     tags: ["MRI", "Neurodegenerative Disease", "Alzheimer's Disease"]
 
   - date: "2026-03-18"
     time: "1:00 PM - 2:00 PM"
     title: "Validation and Longitudinal Analysis of the Brain Vascular System in Mouse Models Using Time of Flight MRI and Light-Sheet Microscopy"
     presenter: "Farhad Fallah Ziarani"
-    affiliation: ""
+    affiliation: "Western University"
     tags: ["MRI", "LSM", "Light Sheet Microscopy", "Vascular Imaging"]
